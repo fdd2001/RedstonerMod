@@ -1,0 +1,16 @@
+[
+{
+  "modid": "redstoner",
+  "name": "Redstoner Mod",
+  "description": "redstoner.com",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["fdd2001"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
